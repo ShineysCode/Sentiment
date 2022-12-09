@@ -1,8 +1,6 @@
 """A Streamlit app for getting the Google autocomplete queries
 """
-!pip install yaml
 import json
-
 import requests
 import streamlit as st
 #import streamlit_authenticator as stauth
